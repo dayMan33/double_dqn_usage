@@ -33,7 +33,7 @@ Clone this repository to your local machine using 'repository address goes here'
 ### setup 
 while in the project directory, run setup.sh to install all requirements.
 
-    double_dqn> setup.sh
+    double_dqn_usage> setup.sh
 
 usage
 -----
